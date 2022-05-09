@@ -1,0 +1,20 @@
+/******************* Tag Selectors *****************/
+
+h1 {color: red;
+    font-size: 75px;}
+
+img:hover {background-color: gold;}
+
+/****************** Class Selectors ******************/
+.bacon {background-color: red; }
+.shrimp {background-color: green;}
+.circular {border-radius: 100%;}
+
+/****************** ID Selectors ******************/
+
+#heading {color: blue;}
+
+/* 1) id is more specific than class, id higher priority; 
+   2) id only once; 
+   3) class can have several class for one item
+   */
